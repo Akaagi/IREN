@@ -17,7 +17,7 @@ Ship detection
 The leaderboard is calculated with approximately 50% of the test data. 
 The final results will be based on the other 50%, so the final standings may be different.
 
-# Result
+# Results
 
 :1st_place_medal: TOP 1 - Public Score
 
