@@ -19,8 +19,10 @@ The final results will be based on the other 50%, so the final standings may be 
 
 # Result
 
-TOP 1 - Public Score\
+:1st_place_medal: TOP 1 - Public Score
+
 ![](./assets/public_score.png)
 
-TOP 3 - Private Score\
+:3rd_place_medal: TOP 3 - Private Score
+
 ![](./assets/private_score.png)
